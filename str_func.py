@@ -1,6 +1,6 @@
 
 def capital_letters(lines):
-    """функция перевода слов в заглавные буквы""""
+    """"функция преобразования всех букв в заглавные буквы"""
     return lines.upper()
 
 def tittle_word(phrase):
